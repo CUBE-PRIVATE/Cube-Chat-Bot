@@ -1,0 +1,15 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "The chat bot for Mr B.F.F!",
+  "main": "bot.js",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
