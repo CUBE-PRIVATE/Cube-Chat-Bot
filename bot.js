@@ -8,7 +8,7 @@ const client = new tmi.Client({
 	},
 	identity: {
 		username: 'MisterBFFBot'
-		password: 'oauth:rwarp5mye2k2s54j0hzlchvmjgdwoo'
+		password: 'OauthTEST!'
 	},
 	channels: [ 'Mr_BFF']
 });
